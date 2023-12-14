@@ -78,11 +78,6 @@ section {
     font-weight: 400;
 }
 
-#about h1{
-    color: #f47b2b;
-    font-weight: 400;
-}
-
 #contact {
     background-color: #f47b2b;
     color: white;
@@ -94,4 +89,9 @@ section {
 
 #contact p{
     margin-bottom: 4px;
+}
+
+#contact a {
+    text-decoration: none;
+    color: white;
 }
